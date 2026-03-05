@@ -3,12 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning" alt="Typing SVG"/>
 </h2>
 </h2>
-
+<!-- Streak de foguinho -->
 <br>
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=MikaelCLY&theme=dark" alt="GitHub Streak"/>
 </div>
 
+<!-- Stacks de trabalho -->
 <br>
 <div align="center">
 
@@ -19,8 +20,7 @@
 
 </div>
 <br>
-
-
+<!-- Contatos -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mikael-libertino-10b486212/" target="_blank">
     <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/user-attachments/assets/ffb626e2-3364-496b-b2d5-568af60b78de"/>
@@ -31,4 +31,11 @@
   <a href="" target="_blank">
     <img align="center" alt="Portfolio" height="40" width="40" src="https://github.com/user-attachments/assets/919cfb8a-2a84-48cb-8554-342dc1a8f5bc"/>
   </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+<!-- colocar textinho motivacional -->
+<img src="https://komarev.com/ghpvc/?username=MikaelCLY&color=green" alt="Profile Views" height="25"/>
+<!-- Agradendo o pessoal por ter logado -->
 </div>
