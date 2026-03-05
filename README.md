@@ -32,7 +32,7 @@
     <img align="center" alt="Portfolio" height="40" width="40" src="https://github.com/user-attachments/assets/919cfb8a-2a84-48cb-8554-342dc1a8f5bc"/>
   </a>
 </div>
-
+<br>
 <!-- Footer -->
 <div align="center">
 <!-- colocar textinho motivacional -->
