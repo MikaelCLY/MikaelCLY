@@ -22,10 +22,10 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/mikael-libertino-10b486212/" target="_blank">
     <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/user-attachments/assets/ffb626e2-3364-496b-b2d5-568af60b78de"/>
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:mikaelcardoso1412@gmail.com" target="_blank">
     <img align="center" alt="Email" height="40" width="40" src="https://github.com/user-attachments/assets/2343bb0d-6041-424b-ac61-7b695b2029fb"/>
   </a>
   <a href="https://seu-portfolio.com" target="_blank">
