@@ -33,6 +33,18 @@
   </a>
 </div>
 <br>
+
+<!-- Colocar projetos aqui dentro
+<div align="center">
+  Projects
+  Confira meus repositórios abaixo para ver exemplos de meu trabalho!
+[Mostrar Imagem](https://github.com/MikaelCLY/seu-projeto-1)
+[Mostrar Imagem](https://github.com/MikaelCLY/seu-projeto-1)
+</div>
+ -->
+
+
+<br>
 <!-- Footer -->
 <div align="center">
 <!-- colocar textinho motivacional -->
