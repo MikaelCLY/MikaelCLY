@@ -1,108 +1,54 @@
+
+<!-- Seção com efeito de digitação -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning" alt="Typing SVG"/>
+</h2>
+</h2>
+<!-- Streak de foguinho -->
+<br>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85C1,FF6EB4,FFB6C1&height=200&section=header&text=Katie%20✨&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bem-vinda%20ao%20meu%20cantinho%20no%20GitHub%20🌸&descAlignY=60&descAlign=50" width="100%"/>
-
+  <img height="180" src="https://streak-stats.demolab.com?user=MikaelCLY&theme=dark" alt="GitHub Streak"/>
 </div>
 
+<!-- Stacks de trabalho -->
+<br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=4000&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Olá%2C+mundo!+🌸;Aprendendo+a+programar+com+amor+💗;Cada+linha+de+código+é+uma+conquista+✨;Katie+está+online!+💻)](https://git.io/typing-svg)
+| **Back** | **Front** | **Data** | **Tools** |
+|-----------|-----------|---------|------------|
+| <img align="center" alt="PHP" height="40" width="40" src="https://github.com/user-attachments/assets/854dc914-3d73-43c1-bc7c-fa24d342182e"/> | <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/user-attachments/assets/06b39558-337b-473e-abd8-3eeccb027278"/> | <img align="center" alt="Python" height="40" width="40" src="https://github.com/user-attachments/assets/75215733-b0ec-4695-8e55-f845f69afec6"/> | <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/user-attachments/assets/2e319518-a2fd-4066-ab5a-55f2d63dc446"/> |
+| <img align="center" alt="Laravel" height="40" width="40" src="https://github.com/user-attachments/assets/2dbafda8-24ce-4172-b95a-f72b453a0c47"/> | <img align="center" alt="React" height="40" width="40" src="https://github.com/user-attachments/assets/0a290a73-f0a9-4857-a1c8-762cf4f90ee7"/> | <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/user-attachments/assets/ea1ab3fa-5344-47d3-83a1-409a2de0282a"/> | <img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/366a0f3c-1cce-46a8-bd73-fd4ade2d6cfd"/> |
 
 </div>
-
----
-
+<br>
+<!-- Contatos -->
 <div align="center">
-
-### 🌸 Sobre mim / About me 🌸
-
+  <a href="https://www.linkedin.com/in/mikael-libertino-10b486212/" target="_blank">
+    <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/user-attachments/assets/ffb626e2-3364-496b-b2d5-568af60b78de"/>
+  </a>
+  <a href="mailto:mikaelcardoso1412@gmail.com" target="_blank">
+    <img align="center" alt="Email" height="40" width="40" src="https://github.com/user-attachments/assets/2343bb0d-6041-424b-ac61-7b695b2029fb"/>
+  </a>
+  <a href="" target="_blank">
+    <img align="center" alt="Portfolio" height="40" width="40" src="https://github.com/user-attachments/assets/919cfb8a-2a84-48cb-8554-342dc1a8f5bc"/>
+  </a>
 </div>
-
-```javascript
-const katie = {
-  nome:        "Katie 💖",
-  pronomes:    "ela/dela",
-  localização: "Brasil 🇧🇷",
-  fase:        "Iniciante na programação 🌱",
-  paixões:     ["codar", "aprender coisas novas", "rosa 💗"],
-  objetivo:    "Transformar café em código ☕→💻",
-  humor:       "Sempre no modo: tentando entender o erro 😅"
-};
-```
-
----
-
+<br>
+ 
+<!-- Colocar projetos aqui dentro
 <div align="center">
+  Projects
+  Confira meus repositórios abaixo para ver exemplos de meu trabalho!
+[Mostrar Imagem](https://github.com/MikaelCLY/seu-projeto-1)
+[Mostrar Imagem](https://github.com/MikaelCLY/seu-projeto-1)
+</div>
+ -->
 
-### 💻 Estou aprendendo / Currently Learning
 
 <br>
-
-<img src="https://img.shields.io/badge/HTML5-FF6EB4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-FF85C1?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=333"/>
-<img src="https://img.shields.io/badge/Python-FF9EC4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FF6EB4?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-FF85C1?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
----
-
+<!-- Footer -->
 <div align="center">
-
-### 📊 Minhas Estatísticas / My Stats
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaterineLima&show_icons=true&bg_color=fff0f5&title_color=FF6EB4&icon_color=FF85C1&text_color=c9587a&border_color=FFB6C1&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterineLima&layout=compact&bg_color=fff0f5&title_color=FF6EB4&text_color=c9587a&border_color=FFB6C1&border_radius=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌷 Minha Jornada / My Journey
-
-<br>
-
-```
-🌱 Fase 1: "O que é um terminal?" ......... ✅ Concluída!
-💡 Fase 2: Hello, World! .................. ✅ Concluída!
-🎨 Fase 3: Deixando tudo bonitinho ........ 🔄 Em andamento...
-🚀 Fase 4: Primeiro projeto completo ...... 🔜 Em breve!
-✨ Fase 5: Dev incrível ................... 💭 Sonhando...
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💌 Frase do dia / Quote of the day
-
-<br>
-
-> *"Toda especialista foi um dia iniciante."* 🌸
->
-> *"Every expert was once a beginner."*
-
-<br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KaterineLima.KaterineLima&left_color=FF85C1&right_color=FF6EB4&left_text=visitas%20💗)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85C1,FF6EB4,FFB6C1&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*Feito com 💗 e muito café ☕*
-
+<!-- colocar textinho motivacional -->
+<img src="https://komarev.com/ghpvc/?username=MikaelCLY&color=green" alt="Profile Views" height="25"/>
+<!-- Agradendo o pessoal por ter logado -->
 </div>
