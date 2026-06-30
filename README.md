@@ -14,9 +14,23 @@
 <br>
 <div align="center">
 
+<img align="center" alt="React" height="40" width="40" src="https://github.com/user-attachments/assets/0a290a73-f0a9-4857-a1c8-762cf4f90ee7"/>
 
-| <img align="center" alt="PHP" height="40" width="40" src="https://github.com/user-attachments/assets/854dc914-3d73-43c1-bc7c-fa24d342182e"/> | <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/user-attachments/assets/06b39558-337b-473e-abd8-3eeccb027278"/> | <img align="center" alt="Python" height="40" width="40" src="https://github.com/user-attachments/assets/75215733-b0ec-4695-8e55-f845f69afec6"/> | <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/user-attachments/assets/2e319518-a2fd-4066-ab5a-55f2d63dc446"/> |
-| <img align="center" alt="Laravel" height="40" width="40" src="https://github.com/user-attachments/assets/2dbafda8-24ce-4172-b95a-f72b453a0c47"/> | <img align="center" alt="React" height="40" width="40" src="https://github.com/user-attachments/assets/0a290a73-f0a9-4857-a1c8-762cf4f90ee7"/> | <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/user-attachments/assets/ea1ab3fa-5344-47d3-83a1-409a2de0282a"/> | <img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/366a0f3c-1cce-46a8-bd73-fd4ade2d6cfd"/> |
+<img align="center" alt="NodeJs" height="40" width="40" src="https://github.com/user-attachments/assets/13c3b72a-8ecb-42cb-b54e-81cd5672110e" />
+
+<img align="center" alt="PostGreeSQL" height="40" width="40" src="https://github.com/user-attachments/assets/ad611df2-5954-431a-8963-4389affcc1bf" />
+
+<img align="center" alt="Vue" height="40" width="40" src="https://github.com/user-attachments/assets/c9f29d76-ea47-4958-8d42-caf3024fa07b"/>
+
+<img align="center" alt="Laravel" height="40" width="40" src="https://github.com/user-attachments/assets/2dbafda8-24ce-4172-b95a-f72b453a0c47"/> 
+
+<img align="center" alt="SqlServer" height="40" width="40" src="https://github.com/user-attachments/assets/f89bbc69-1314-4d4d-8f78-b21a5508a165"/> 
+
+<img align="center" alt="Python" height="40" width="40" src="https://github.com/user-attachments/assets/75215733-b0ec-4695-8e55-f845f69afec6"/> 
+
+<img align="center" alt="Docker" height="40" width="40" src="https://github.com/user-attachments/assets/8d5f38f4-a013-4dd2-a694-10c09137e68d" />
+
+<img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/366a0f3c-1cce-46a8-bd73-fd4ade2d6cfd"/> 
 
 </div>
 <br>
